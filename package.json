@@ -1,0 +1,22 @@
+{
+  "name": "file-checker",
+  "version": "1.0.0",
+  "description": "a practice node file for MEDA",
+  "main": "file-checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NydiaGuo/file-checker.git"
+  },
+  "author": "ni guo (nydia)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NydiaGuo/file-checker/issues"
+  },
+  "homepage": "https://github.com/NydiaGuo/file-checker#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

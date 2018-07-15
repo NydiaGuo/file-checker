@@ -1,0 +1,4 @@
+8392;Visitor;50;Finished
+3922;Client:39;Finished
+192;Client:2;Not Finished
+3992;Client;32;Not Finished
